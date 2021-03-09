@@ -1,0 +1,73 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{cite}
+
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+            
+        \Huge
+        \textbf{Calistenia}
+            
+        \vspace{0.5cm}
+        \LARGE
+        Informática II
+            
+        \vspace{1.5cm}
+            
+        \textbf{Juan Pablo Cruz Gómez}
+            
+        \vfill
+            
+        \vspace{0.8cm}
+            
+        \Large
+        Despartamento de Ingeniería Electrónica y Telecomunicaciones\\
+        Universidad de Antioquia\\
+        Medellín\\
+        Marzo de 2021
+            
+    \end{center}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+\section{Introducción}\label{intro}
+Se realiza este trabajo con el fin de trabajar el pseudocódigo en la explicación del proceso de llevar unos elementos de una posición incial a una posición final, siendo muy descriptivo ya que el obejetivo es cualquier persona que lea el documento con las instrucciones sea capaz de llegar al resultado final satisfactoriamente
+\newpage
+\section{Instrucciones para hacer al desafío de llevar unos objetos de una posición A a una posición B} \label{contenido}
+Primeramente, especifico que los pasos se pueden realizar sólo con una mano y partiendo de la posición inicial 
+Pasos
+
+
+1)	tomar la hoja con los dedos pulgar e índice y sin doblarla colocarla al lado derecho de las tarjetas que se encuentran bajo la hoja sin que se queden tocando por ningún extremo la hoja con las tarjetas, sin cambiar la dirección de la hoja
+
+
+2)	tomar las tarjetas con el dedo pulgar y centro de los lados más largos y por las esquinas del lado contrario a la mano con la cual se esté realizando el ejercicio mano (la izquierda si se utiliza la mano derecha o la derecha si se utiliza la mano izquierda).
+
+
+3)	levantar la mano verticalmente 10 cm hacia arriba con las tarjetas tomadas por esta como se especifica en el paso ante.rior.
+
+
+4)	girar la mano 90 grados (a la izquierda si se utiliza la mano izquierda o a la derecha si se utiliza la mano derecha) para luego apoyar la tarjeta por el lado estrecho opuesto al cual se está sosteniendo sobre el centro de la hoja de papel.
+
+
+5)	inclinar las tarjetas 30 grados (a la izquierda si se utiliza la mano izquierda o a la derecha si se utiliza la mano derecha), dejar que la tarjeta que queda arriba de la otra luego de la inclinación repose sobre la de abajo quitando la superficie de los dedos de la tarjeta de arriba quedando con los dedos sólo sosteniendo la tarjeta de abajo.
+
+
+6)	 con los dedos transportar la tarjeta separando los extremos de abajo y dejando junto los de arriba para ir formando una pirámide, abrir los extremos inferiores hasta encontrar el punto de equilibrio en el cual la pirámide formada por las dos tarjetas se sostenga sola encima de la hoja.
+
+
+\newpage
+\section{Conclusión}\label{intro}
+Fue un trabajo muy interesante ya que me permitió aprender como la ambigüedad lleva a que el resultado que deseamos no se haga satisfactoriamente. Me permitió aprender como utilizar mejor el pseudocódigo para comunicar instrucciones con personas y como tener una visión mas amplia para como hacer el código que se debe llevar a la máquina.
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+\end{document}
